@@ -1,6 +1,4 @@
-# 🍃 Gatsby Leaflet Starter
-
-Jumpstart your next Gatsby mapping project with Leaflet!
+# COVID-19-Heatmap
 
 ## What This Includes
 * [Yarn](https://yarnpkg.com/en/)
@@ -42,4 +40,3 @@ gatsby new new-gatsby-site https://github.com/colbyfayock/gatsby-starter-leaflet
 yarn develop
 ```
 * You should now be running a new Gatsby site locally! 🎉
-# COVID-19-Heatmap

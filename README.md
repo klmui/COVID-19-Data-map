@@ -1,5 +1,8 @@
 # COVID-19-Heatmap
 
+## About
+Created using React Leaflet. The next step is to convert this app into an Angular project with more features. The repo will be COVID-19-Comprehensive-Tracker.
+
 ## What This Includes
 * [Yarn](https://yarnpkg.com/en/)
 * [Gatsby](https://www.gatsbyjs.org/)

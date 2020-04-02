@@ -42,3 +42,4 @@ gatsby new new-gatsby-site https://github.com/colbyfayock/gatsby-starter-leaflet
 yarn develop
 ```
 * You should now be running a new Gatsby site locally! 🎉
+# COVID-19-Heatmap

@@ -3,6 +3,8 @@
 ## About
 Created using React Leaflet. The next step is to convert this app into an Angular project with more features. The repo will be COVID-19-Comprehensive-Tracker.
 
+Try it out: [COVID-19-Data-Map](https://immense-hollows-47751.herokuapp.com/)
+
 ## What This Includes
 * [Yarn](https://yarnpkg.com/en/)
 * [Gatsby](https://www.gatsbyjs.org/)

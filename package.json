@@ -52,7 +52,8 @@
     "lint": "eslint -c ./config/eslint.config.js . --ext .js",
     "start": "yarn develop",
     "serve": "gatsby serve",
-    "test": "jest --config ./config/jest.config.js"
+    "test": "jest --config ./config/jest.config.js",
+    "heroku-postbuild": "gatsby build"
   },
   "husky": {
     "hooks": {

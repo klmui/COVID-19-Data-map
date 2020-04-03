@@ -9,9 +9,6 @@ const Header = () => {
       <Container type="content">
         <p>COVID-19 Map By Cases</p>
         <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
         </ul>
       </Container>
     </header>

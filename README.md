@@ -1,4 +1,4 @@
-# COVID-19-Heatmap
+# COVID-19-Data-Map
 
 ## About
 Created using React Leaflet. The next step is to convert this app into an Angular project with more features. The repo will be COVID-19-Comprehensive-Tracker.
